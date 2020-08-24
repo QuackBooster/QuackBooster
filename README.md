@@ -1,16 +1,13 @@
-### Hi there 👋
+ # Pipo Notes
+#### Documenting knowledge, plans, learning, resources, ideas, poc, notes, tests and results.
 
-<!--
-**FelipeRuizGarcia/FelipeRuizGarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<center>
 
-Here are some ideas to get you started:
+**_Those who cannot remember the past are condemned to repeat it._**
+<br>
+**_The one who does not remember history is bound to live through it again._**
+<br>
+<br>
+**_-Dynamic programming_** 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</center>
